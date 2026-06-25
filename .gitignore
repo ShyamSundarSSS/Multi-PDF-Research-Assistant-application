@@ -1,0 +1,11 @@
+.env
+
+pdfs/
+
+uploaded_hashes.json
+
+__pycache__/
+
+venv/
+
+.vscode/
