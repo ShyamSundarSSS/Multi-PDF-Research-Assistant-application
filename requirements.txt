@@ -1,19 +1,24 @@
-streamlit==1.46.1
-python-dotenv==1.1.1
+streamlit
+python-dotenv
 
-langchain-core==1.4.0
-langchain-classic==1.0.7
-langchain-community==0.4.1
+langchain-core
+langchain-classic
+langchain-community
 
-langchain-groq==1.1.2
-langchain-huggingface==0.3.1
-langchain-pinecone==0.2.13
+langchain-groq
+langchain-huggingface
+langchain-pinecone
 
-pinecone==7.3.0
+pinecone
 
-sentence-transformers==5.0.0
-huggingface-hub==0.33.1
+sentence-transformers
+transformers
+torch
 
-pypdf==5.7.0
+huggingface-hub
 
-groq==0.30.0
+pypdf
+
+groq
+
+scikit-learn
